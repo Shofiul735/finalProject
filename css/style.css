@@ -323,6 +323,9 @@ border-radius:  30px;
 }
 footer{
     background-image: url(../images/footer.jpeg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
     width: 100%;
     height: 50vh;
 
