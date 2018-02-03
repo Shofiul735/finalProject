@@ -224,7 +224,7 @@ border-radius:  30px;
     border-radius: 20px;
     position: absolute;
     transform: translateX(-40%);
-    animation: myframes 5s ease-in-out 0s infinite;
+    animation: myframes 5s ease-in-out 0s infinite reverse;
 }
 @keyframes myframes{
     25%{
